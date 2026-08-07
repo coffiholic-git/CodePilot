@@ -4,7 +4,7 @@ This project contains only the AI analysis service. It is a beginner-friendly Py
 
 ## What it does
 
-1. Receives Java source files through the `/analyze` endpoint.
+1. Receives Java source files through the `/analyze` endpoint .
 2. Keeps `.java` files only.
 3. Creates a clear code-review prompt.
 4. Sends the prompt to an AI model.
