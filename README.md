@@ -1,4 +1,4 @@
-# GitHub Analyzer AI Service
+# GitHub Analyzer AI Service 
 
 This project contains only the AI analysis service. It is a beginner-friendly Python/FastAPI API that reviews Java files using an OpenAI-compatible AI provider.
 
