@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# GitHub Analyzer AI Service 
-=======
 # GitHub Analyzer
->>>>>>> 85e25e3 (Updated repository analyzer)
 
-A beginner-friendly Java code-review project with a React frontend and a FastAPI backend. It uses Groq to generate an AI review with a quality score, summary, and actionable issues.
+A Java code-review project with a React frontend and a FastAPI backend. It uses Groq to generate an AI review with a quality score, summary, and actionable issues.
 
 ## Features
 
