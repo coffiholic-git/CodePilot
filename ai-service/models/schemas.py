@@ -10,6 +10,10 @@ class AnalyzeRequest(BaseModel):
     files: list[SourceFile] = Field(min_length=1)
 
 
+class GitHubRepositoryRequest(BaseModel):
+    repository_url: str
+
+
 class Issue(BaseModel):
     filePath: str
     severity: str

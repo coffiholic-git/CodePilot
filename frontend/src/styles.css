@@ -108,6 +108,30 @@ button {
   cursor: pointer;
 }
 
+.input-mode {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.input-mode button {
+  margin: 0;
+  color: #afbdd1;
+  background: #17263e;
+}
+
+.input-mode button.selected {
+  color: #06251e;
+  background: #66e3bd;
+}
+
+.hint {
+  color: #afbdd1;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
 button:disabled {
   opacity: 0.6;
   cursor: wait;
