@@ -16,7 +16,6 @@ A Java code-review project with a React frontend and a FastAPI backend. It uses 
 - Analyze a public GitHub repository URL.
 - Review up to 20 Java files from the repository's default branch.
 - Receive issue severity, file path, line number, suggestion, and confidence.
->>>>>>> 85e25e3 (Updated repository analyzer)
 
 ## Project structure
 
