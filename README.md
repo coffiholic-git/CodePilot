@@ -2,7 +2,7 @@
 A Java code-review project with a React frontend and a FastAPI backend. It uses Groq to generate an AI review with a quality score, summary, and actionable issues.
 ## Features
 
-<<<<<<< HEAD
+<<<<<<< HEAD 
 1. Receives Java source files through the `/analyze` endpoint .
 2. Keeps `.java` files only.
 3. Creates a clear code-review prompt.
