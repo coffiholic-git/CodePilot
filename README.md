@@ -8,7 +8,7 @@ A Java code-review project with a React frontend and a FastAPI backend. It uses 
 3. Creates a clear code-review prompt.
 4. Sends the prompt to an AI model.
 5. Returns a score, summary, and list of code issues.
-=======
+=======.
 - Paste Java source code into the editor.
 - Upload a local `.java` file.
 - Analyze a public GitHub repository URL.
