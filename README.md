@@ -6,7 +6,7 @@ A Java code-review project with a React frontend and a FastAPI backend. It uses 
 1. Receives Java source files through the `/analyze` endpoint .
 2. Keeps `.java` files only.
 3. Creates a clear code-review prompt.
-4. Sends the prompt to an AI model.
+4. Sends the prompt to an AI model. 
 5. Returns a score, summary, and list of code issues.
 =======.
 - Paste Java source code into the editor.
