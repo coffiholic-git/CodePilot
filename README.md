@@ -11,7 +11,7 @@ A Java code-review project with a React frontend and a FastAPI backend. It uses 
 =======.
 - Paste Java source code into the editor.
 - Upload a local `.java` file.
-- Analyze a public GitHub repository URL.
+- Analyze a public GitHub repository URL. 
 - Review up to 20 Java files from the repository's default branch.
 - Receive issue severity, file path, line number, suggestion, and confidence.
 
